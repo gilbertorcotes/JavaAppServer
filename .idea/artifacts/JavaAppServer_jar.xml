@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="JavaAppServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaAppServer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaAppServer.jar">
+        <element id="module-output" name="JavaAppServer" />
+      </element>
+      <element id="library" level="project" name="common-2.2.3" />
+    </root>
+  </artifact>
+</component>

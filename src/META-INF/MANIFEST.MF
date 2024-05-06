@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: main.java.mx.darthill.JavaAppServer
+Class-Path: common-2.2.3.jar ecore-2.2.3.jar ecore-change-2.2.3.jar o4gl
+ rt.jar tuscany-sdo-api-r2.1-1.1.1.jar tuscany-sdo-impl-1.1.1.jar tuscan
+ y-sdo-lib-1.1.1.jar tuscany-sdo-tools-1.1.1.jar xsd-2.2.3.jar
+

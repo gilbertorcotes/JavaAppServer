@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="common-2.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/common-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecore-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecore-change-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/o4glrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tuscany-sdo-api-r2.1-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tuscany-sdo-impl-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tuscany-sdo-lib-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tuscany-sdo-tools-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xsd-2.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
